@@ -1,0 +1,15 @@
+.Icons {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+   gap: 20px;
+}
+.Icons-wrap {
+    height:100vh;
+
+}
+
+.Icons-form {
+    display: none;
+}
